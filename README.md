@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/JinhyukCocoaPodsProject.svg?style=flat)](https://cocoapods.org/pods/JinhyukCocoaPodsProject)
 [![License](https://img.shields.io/cocoapods/l/JinhyukCocoaPodsProject.svg?style=flat)](https://cocoapods.org/pods/JinhyukCocoaPodsProject)
 [![Platform](https://img.shields.io/cocoapods/p/JinhyukCocoaPodsProject.svg?style=flat)](https://cocoapods.org/pods/JinhyukCocoaPodsProject)
+## Description
+간단한 Cocoapods 등록 예제로 LogFramework 라는 레포지토리와 함께 차후 과정 작성 예정
 
 ## Example
 
